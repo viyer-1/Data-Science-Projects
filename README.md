@@ -13,4 +13,5 @@ This was a project that involved creating a Python API that has 3 endpoints:
 + Scrape the given URL and store the data
 + Extract text from a PDF and store the text
 + Chat for querying about the data stored in the previous 2 steps
+  
 It also contains a Jupyter notebook containing analysis pertaining to web traffic data.
